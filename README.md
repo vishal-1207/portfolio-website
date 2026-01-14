@@ -11,4 +11,4 @@ Designed to showcase the bridge between **Backend Engineering** (Java/System Des
 - Framer Motion (Animations)
 - Lucide React (Icons)
 
-[Live Demo](https://your-portfolio-link.vercel.app)
+[Live Demo](https://vishalchaudhary-dev.vercel.app/)
