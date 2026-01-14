@@ -1,2 +1,13 @@
-# portfolio-website
-A shapeshifting portfolio. 🏗️ Architect (Terminal) vs 🎨 Artist (Gallery) modes. Built with React &amp; Framer Motion.
+# 🌗 The Architect & The Artist
+
+**A portfolio with a dual personality.**
+
+Designed to showcase the bridge between **Backend Engineering** (Java/System Design) and **Frontend Creativity** (React/UX).
+
+**🚀 Tech Stack:**
+- React + Vite
+- Tailwind CSS (Styling)
+- Framer Motion (Animations)
+- Lucide React (Icons)
+
+[Live Demo](https://your-portfolio-link.vercel.app)
