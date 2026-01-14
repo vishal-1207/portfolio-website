@@ -48,6 +48,14 @@ const Portfolio = () => {
     },
   ];
 
+  React.useEffect(() => {
+    if (isArchitect) {
+      document.title = '> System.init("Vishal Chaudhary");';
+    } else {
+      document.title = "Vishal Chaudhary | Digital Craftsman";
+    }
+  }, [isArchitect]);
+
   return (
     <div
       className={`min-h-screen transition-colors duration-700 ease-in-out ${
