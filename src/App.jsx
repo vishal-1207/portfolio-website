@@ -132,9 +132,10 @@ const Portfolio = () => {
                   <span className="text-yellow-400">name</span> ={" "}
                   <span className="text-green-400">"Vishal Chaudhary";</span>
                 </h1>
-                <p className="text-xl text-gray-400 max-w-2xl">
+                <p className="text-xl text-gray-400 max-w-4xl">
                   // Specializing in high-performance backends. <br />
-                  // Java, Spring Boot, Node.js, System Design.
+                  // Java, Spring Boot, JavaScript/TypeScript, Node.js, System
+                  Design.
                 </p>
                 <div className="mt-8 flex gap-4">
                   <div className="px-4 py-2 border border-gray-700 bg-gray-900 rounded text-sm flex items-center gap-2">
@@ -406,17 +407,17 @@ const Portfolio = () => {
                 exit={{ opacity: 0 }}
                 className="font-mono"
               >
-                <div className="mb-8 text-green-500/50 text-sm">
+                <div className="mb-8 text-green-400 text-m">
                   // Ready to initialize handshake?
                 </div>
                 <h2 className="text-3xl md:text-4xl font-bold text-white mb-8">
-                  <span className="text-green-400">git clone</span>{" "}
-                  <span className="text-gray-500">collaboration_request</span>
+                  <span className="text-green-500">git clone</span>{" "}
+                  <span className="text-gray-400">collaboration_request</span>
                 </h2>
-                <div className="flex flex-wrap justify-center gap-6 text-sm">
+                <div className="flex flex-wrap justify-center gap-6 text-m">
                   <a
                     href="https://github.com/vishal-1207"
-                    className="text-gray-400 hover:text-green-400 transition-colors flex items-center gap-2 group"
+                    className="text-gray-300 hover:text-green-300 transition-colors flex items-center gap-2 group"
                   >
                     <span className="text-green-500 opacity-0 group-hover:opacity-100 transition-opacity">
                       ./
@@ -425,7 +426,7 @@ const Portfolio = () => {
                   </a>
                   <a
                     href="https://www.linkedin.com/in/vishalchaudhary1207/"
-                    className="text-gray-400 hover:text-green-400 transition-colors flex items-center gap-2 group"
+                    className="text-gray-300 hover:text-green-300 transition-colors flex items-center gap-2 group"
                   >
                     <span className="text-green-500 opacity-0 group-hover:opacity-100 transition-opacity">
                       ./
@@ -434,7 +435,7 @@ const Portfolio = () => {
                   </a>
                   <a
                     href="mailto:vishalchaudhary1908@gmail.com"
-                    className="text-gray-400 hover:text-green-400 transition-colors flex items-center gap-2 group"
+                    className="text-gray-300 hover:text-green-300 transition-colors flex items-center gap-2 group"
                   >
                     <span className="text-green-500 opacity-0 group-hover:opacity-100 transition-opacity">
                       ./
